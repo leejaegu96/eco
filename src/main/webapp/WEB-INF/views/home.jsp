@@ -18,6 +18,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	</head>
 	<body class="landing is-preload">
-		Hello wolrd
+		Hello wolrd~
 	</body>
 </html>
