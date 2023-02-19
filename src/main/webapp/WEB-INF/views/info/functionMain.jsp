@@ -1059,6 +1059,11 @@
 	<script src="/resources/assets/js/lib/owl-carousel/owl.carousel-init.js"></script>
 	<!-- scripit init-->
 	<script src="/resources/assets/js/dashboard2.js"></script>
+	
+	<script type="text/javascript">
+	
+	</script>
+	
 </body>
 
 </html>
