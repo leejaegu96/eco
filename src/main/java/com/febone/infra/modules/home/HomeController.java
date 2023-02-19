@@ -13,4 +13,10 @@ public class HomeController {
    public String mainForm(Locale locale, Model model) {
       return "info/mainForm";
    }
+   
+   @RequestMapping(value="/loginForm", method = RequestMethod.GET)
+   public String loginForm(Locale locale, Model model) {
+      return "info/loginForm";
+   }
+  
 }
