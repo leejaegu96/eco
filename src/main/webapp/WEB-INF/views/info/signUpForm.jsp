@@ -46,28 +46,30 @@
 						
 
 					<div class="wrap-input100 validate-input m-b-23" data-validate = "Username is reauired">
-						<span class="label-input100">Username</span>
-						<input class="input100" type="text" name="username" placeholder="Type your username">
+						<span class="label-input100">ID</span>
+						<input class="input100" type="text" name="username" placeholder="아이디를 입력해주세요.">
 						<span class="focus-input100" data-symbol="&#xf206;"></span>
 					</div>
 					
-					<div class="wrap-input100 validate-input m-b-23" data-validate = "Username is reauired">
-					<span class="label-input100">E-mail</span>
-					<input class="input100" type="text" name="username" placeholder="Type your E-mail">
-					<span class="focus-input100" data-symbol="&#xf206;"></span>
-					</div>
-
-					<div class="wrap-input100 validate-input" data-validate="Password is required">
+					<div class="wrap-input100 validate-input m-b-23" data-validate="Password is required">
 						<span class="label-input100">Password</span>
-						<input class="input100" type="password" name="pass" placeholder="Type your password">
+						<input class="input100" type="password" name="pass" placeholder="비밀번호를 입력해주세요.">
 						<span class="focus-input100" data-symbol="&#xf190;"></span>
 					</div>
 					
-					<div class="text-right p-t-8 p-b-31">
-						<a href="#">
-							Forgot password?
-						</a>
+					<div class="wrap-input100 validate-input m-b-23" data-validate="Password is required">
+						<span class="label-input100">Confirm Password</span>
+						<input class="input100" type="password" name="pass" placeholder="비밀번호를 한번 더 입력해주세요.">
+						<span class="focus-input100" data-symbol="&#xf190;"></span>
 					</div>
+					
+					<div class="wrap-input100 validate-input m-b-33" data-validate = "Username is reauired">
+						<span class="label-input100">E-mail</span>
+						<input class="input100" type="text" name="username" placeholder="이메일을 적어주세요.">
+						<span class="focus-input100" data-symbol="&#xf206;"></span>
+					</div>
+
+					
 					
 					<div class="container-login100-form-btn">
 						<div class="wrap-login100-form-btn">
